@@ -1,0 +1,105 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+   background:url(../../images/second.png);	
+	}
+
+/* logo picture class */
+.logo_pic
+{
+	/*padding:60px 0 0 10px;*/
+	margin:150px auto 0 auto; 
+	}
+	
+/* End of logo picture class */	
+	
+/* Admin Button portion */
+
+.Admin_div
+{
+	margin:40px 0 40px 0;
+    text-align: center;
+	}
+		
+.Admin_btn
+{
+  height:60px !important;
+  border:1px solid green;
+  border-radius:30px !important;	
+  font-family:Verdana, Geneva, sans-serif;
+  line-height: 40px !important;
+	}
+		
+
+/* End of  Admin Button portion */
+
+
+/* Teacher Button portion */
+
+.Teacher_div
+{
+	margin:40px 0 40px 0;
+	text-align: center;
+	}
+	
+.Teacher_btn
+{	
+  height:60px !important;
+  border:1px solid green;
+  border-radius:30px !important;
+  font-family:Verdana, Geneva, sans-serif;			
+  line-height: 40px !important;
+ }	
+
+/* End of  Admin Button portion */
+
+
+
+/* Student Button portion */
+.Student_div
+{
+	padding:50px 0 0 0;
+	padding-left:50px !important;
+	}
+
+.Student_btn
+{
+  height:60px !important;
+  border:1px solid green;
+  border-radius:30px !important;
+  font-family:Verdana, Geneva, sans-serif;
+  line-height: 40px !important;
+	}	
+/* End of  Student Button portion */	
+.Attendance_div
+{
+	padding:50px 0 0 0;
+	padding-left:50px !important;
+	}
+
+.Attendance_btn
+{
+  height:60px !important;
+  border:1px solid green;
+  border-radius:30px !important;
+  font-family:Verdana, Geneva, sans-serif;			
+  line-height: 40px !important;
+	}	
+	
+	
+ .anchorr
+ {
+    color:white !important;	
+    background: #B22D30 !important; 
+    border:0px !important;
+	 }	
+		
+ a:hover 
+{
+  text-decoration:none !important;
+  color:#B22D30 !important;	
+  background:#FFF !important; 	
+  border:2px #B22D30 groove !important;
+}	

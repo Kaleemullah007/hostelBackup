@@ -1,0 +1,41 @@
+
+table.layout{
+	min-width:100%;
+	max-width:100%;
+	height:auto;
+	background: #efefef;
+	margin: auto;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table, td, th{
+    border: 1px solid black;
+}
+
+.no-print{
+	display: none;
+}
+
+h3{
+	font-weight:bold;
+	font-family: sans-serif;
+	color: #fff;
+	background: #B22D30;
+	margin-bottom: 5px;
+	padding:15px;
+}
+
+#prnt{
+	background: #B22D30;
+	color: #fff;
+	width:80px;
+	height:35px;
+	line-height: 35px;
+	text-align: center;
+	border-radius:5px;
+	border: 0px;
+	margin-top: 20px;
+}
